@@ -38,6 +38,6 @@ Designed and implemented a dynamic Power BI dashboard for call center analytics,
 - **Proactive Performance Monitoring** – Deploy automated reporting and real-time dashboards to facilitate data-driven decision-making and continuous improvement.
 
 # 🛠 Tool Used
-- Power BI – For data visualization, interactive dashboards, and real-time reporting.
-- Microsoft Excel – For data preprocessing, cleaning, and initial analysis.
-- DAX (Data Analysis Expressions) – For creating custom calculations and measures in Power BI.
+- **Power BI** – For data visualization, interactive dashboards, and real-time reporting.
+- **Microsoft Excel**– For data preprocessing, cleaning, and initial analysis.
+- **DAX** (Data Analysis Expressions) – For creating custom calculations and measures in Power BI.
