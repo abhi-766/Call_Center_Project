@@ -1,4 +1,4 @@
-# Call Center Analysis Project
+# ☏ Call Center Analysis Project
 Designed and implemented a dynamic Power BI dashboard for call center analytics, providing actionable insights into agent performance, call handling efficiency, and customer engagement. Leveraged data modeling and visualization to enhance decision-making and operational strategy.
 
 # 📊 Project Overview
