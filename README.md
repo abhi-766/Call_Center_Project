@@ -9,3 +9,12 @@ Designed and implemented a dynamic Power BI dashboard for call center analytics,
 - **Enhanced Customer Engagement** – Identified key service gaps through data visualization, helping improve response times, resolution rates, and overall customer satisfaction.
 
 - **Automated Reporting & Visualization** – Streamlined analytics with automated reporting, providing stakeholders with real-time, interactive dashboards for continuous monitoring.
+
+# Project Objectives
+- Operational Excellence – Leverage data analytics to optimize call center efficiency and enhance agent productivity.
+
+- Insight-Driven Strategy – Transform raw data into meaningful insights to support informed decision-making and process improvements.
+
+- Customer-Centric Enhancement – Analyze interaction patterns to refine service delivery and elevate customer satisfaction.
+
+- Automated Intelligence – Implement dynamic reporting and real-time monitoring for seamless performance tracking and strategic planning.
